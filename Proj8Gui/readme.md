@@ -1,10 +1,9 @@
 ﻿﻿8. Создать многоокноое приложение на следующую тематику:  
 	окно 1: Приветствие  
-	окно 2:	Детство (QListWidget)
-  
-	окно 3: Отрочество (QRadioButton)  
-	окно 4: Юность (QComboBox)
-	окно 5: Благодарность (QLineEdit)  
+	окно 2:	Детство (QComboBox)
+	окно 3: Отрочество (QTableWidgetn)  
+	окно 4: Юность (QListWidget)
+	окно 5: Спасибо (QTableWidget)  
 
 
 
@@ -13,7 +12,7 @@
 
 
 
-![srcreenshot](screen1.png)
+![srcreenshot](screen.png)
 
 
 

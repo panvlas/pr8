@@ -97,7 +97,7 @@ class boyhood(QtWidgets.QMainWindow):
     def next(self):
         self.switch_window.emit('3>4')
 
-# form4 QComboBox
+# form4 QListWidget
 class youth(QtWidgets.QMainWindow):
     switch_window = QtCore.pyqtSignal(str)
 
@@ -128,7 +128,7 @@ class youth(QtWidgets.QMainWindow):
     def next(self):
         self.switch_window.emit('4>5')
 
-# form5 QLineEdit
+# form5 QTableWidget
 class finish(QtWidgets.QMainWindow):
     switch_window = QtCore.pyqtSignal(str)
 

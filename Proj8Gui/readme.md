@@ -2,7 +2,7 @@
 	
 	окно 1: Приветствие  
 	окно 2:	Детство (QComboBox)
-	окно 3: Отрочество (QTableWidgetn)  
+	окно 3: Отрочество (QTableWidget)  
 	окно 4: Юность (QListWidget)
 	окно 5: Спасибо (QTableWidget)  
 
